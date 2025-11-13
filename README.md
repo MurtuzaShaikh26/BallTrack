@@ -56,9 +56,19 @@ Results and evaluation details are available in the [`results/`](results/) direc
 
 ## Output Demo
 ### Detection Results
+The results are present in /output directory
 Sample output demonstrating football entity detection on match footage:
 
 **Demo Video link:** 
+
+
+
+https://github.com/user-attachments/assets/fa45a1c4-fdf8-419f-96b8-d41a7c2e4cc6
+
+
+
+https://github.com/user-attachments/assets/4e9e5f4e-7218-4c2c-b7a5-b98404117b0a
+
 
 ---
 
